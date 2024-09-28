@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+}
+
+#home{
+    background-color: hsl(340, 57%, 64%);
+    text-align: center;
+}
+
+#container{
+    display: flex;
+    flex-direction: row;
+}
+
+#container>div>a>img {
+    height: 375px;
+  }
+
+.mimg{
+    width: 350px;
+    height: 550px;
+}
+
+a{
+    color: hsl(340, 35%, 75%);
+}
+
+.hobbyh1{
+    color: hsl(207, 69%, 40%);  
+}
+
+.movieh1{
+    color: hsl(161, 100%, 18%);
+}
+
+.placeh1{
+    color: #3e86bf;
+}
+
+#sizeimg{
+    width: 30%;
+    height: 30%;
+}
